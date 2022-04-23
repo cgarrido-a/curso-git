@@ -1,5 +1,3 @@
-Aprendiendo git y github
-
-Con curso de platzi
-
-Ganado en beca de WWC
+Aprendiendo git y github con curso de platzi.
+Ganado en beca de WWC.
+Tuve mucha suerte.
