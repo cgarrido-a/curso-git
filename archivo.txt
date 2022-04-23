@@ -1,3 +1,5 @@
-Aprendiendo git
+Aprendiendo git y github
 
 Con curso de platzi
+
+Ganado en beca de WWC
