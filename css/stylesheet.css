@@ -9,9 +9,9 @@ p{
     font-size: 2em;
 }
 
-.post{
+.container{
     text-align: center;
-    margin: 4em;
+    margin: 4em auto;
     border: solid 2px black;
     padding: 4em;
 }
