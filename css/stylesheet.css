@@ -12,9 +12,9 @@ h1{
 
 .container{
     text-align: center;
-    margin: 4em auto ;
+    margin: 0 auto  ;
     border: solid 2px black;
-    padding: 0 0 4em 0;
+    padding: 0;
 }
 
 header{
